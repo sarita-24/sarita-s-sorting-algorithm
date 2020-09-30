@@ -1,2 +1,2 @@
 # sarita-s-sorting-algorithm
-This contains the code of sorting an 
+This contains the code of quicksort algorithm
